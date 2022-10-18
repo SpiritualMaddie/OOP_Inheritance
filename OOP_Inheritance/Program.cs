@@ -1,4 +1,4 @@
-﻿// Madde Lundström NET22
+﻿// Madde Lundström NET22 
 using System;
 
 namespace Labb6_Inheritance
